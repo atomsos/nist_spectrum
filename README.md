@@ -6,7 +6,7 @@ spider for https://physics.nist.gov/PhysRefData/ASD/ionEnergy.html
 
 ## Install requirements
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 
 
