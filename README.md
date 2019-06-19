@@ -1,5 +1,5 @@
 # nist_spectrum
-spider for https://physics.nist.gov/PhysRefData/ASD/lines_form.html
+spider for https://physics.nist.gov/PhysRefData/ASD/ionEnergy.html
 
 
 
@@ -32,3 +32,6 @@ make nist_spectrum.json
 
 
 
+##　TODOS
+
+* [ ] https://physics.nist.gov/PhysRefData/ASD/lines_form.html
